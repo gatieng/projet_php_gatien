@@ -1,0 +1,14 @@
+{
+    "name": "gato/projet_php_gatien",
+    "description": "Gestion des formations pour webforce3",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Gatien Gregori",
+            "email": "gatien.gregori@gmail.com"
+        }
+    ],
+    "require": {
+        "social-links/social-links": "^1.12"
+    }
+}
